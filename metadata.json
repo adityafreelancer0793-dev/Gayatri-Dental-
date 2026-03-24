@@ -1,0 +1,7 @@
+{
+  "name": "Gayatri Dental Clinic",
+  "description": "Premium dental care in Raipur, Chhattisgarh. Specializing in advanced dental treatments with a modern, patient-centric approach.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
